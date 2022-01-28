@@ -1,0 +1,25 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="JavaLangImport" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="MavenDuplicateDependenciesInspection" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="MavenDuplicatePluginInspection" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="MavenModelInspection" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="MavenPackageUpdate" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="excludeList">
+        <list>
+          <option value="org.springframework.boot:spring-boot" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="MavenParentMissedVersionInspection" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="MavenPropertyInParent" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="MavenRedundantGroupId" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="OnDemandImport" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="SamePackageImport" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="SingleClassImport" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="StaticImport" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="UNUSED_IMPORT" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="com.haulmont.jpb.EntityIdMissingInspection" enabled="true" level="TYPO" enabled_by_default="true" />
+  </profile>
+</component>
