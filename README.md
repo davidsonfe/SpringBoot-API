@@ -1,7 +1,7 @@
 
 <h1 align="center">
 <br>
-  <img src="file:///C:/Users/Davidson/Downloads/power_icon-icons.com_53620.png" alt="FOODFY" width="316">
+  <img src="file:///C:/Users/Davidson/Downloads/power_icon-icons.com_53620.png" alt="SpringBoot_API" width="316">
 <br>
 <br>
 </h1>
